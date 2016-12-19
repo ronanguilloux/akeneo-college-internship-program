@@ -68,5 +68,8 @@ Voici de nouvelles compétences à découvrir : La ligne de commande, Git (gesti
 
 3. ["Comprendre le web"](http://openclassrooms.com/courses/comprendre-le-web)
 
+### Etape 5 : Débloque tes badges !
 
+Tu fais maintenant partie de l'équipe : [tu mérites un badge](http://badger.akeneo.com/badges) !
+Un compte Google te  suffira pour en débloquer un ou deux...
 
