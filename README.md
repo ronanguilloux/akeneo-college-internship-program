@@ -27,7 +27,7 @@ Ressources à lire et à comprendre :
 
 Répondre à un court questionnaire :
 
-- Présenter Akeneo en 1 paragraphe : Année de création, nombre d'employée, moyenne d'age, métiers représentés
+- Présenter Akeneo en 1 paragraphe : Année de création, nombre d'employé(e)s, moyenne d'âge, métiers représentés
 - Qu'est-ce qu'un PIM (et que veut dire cet acronyme)
 - A quoi sert un PIM pour une entreprise comme Auchan, Hermès ou Samsung ?
 - Quels métiers sont nécessaires dans l'entreprise pour construire ce logiciel ?
