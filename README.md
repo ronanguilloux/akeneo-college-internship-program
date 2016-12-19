@@ -31,8 +31,8 @@ Répondre à un court questionnaire :
 - Qu'est-ce qu'un PIM (et que veut dire cet acronyme)
 - A quoi sert un PIM pour une entreprise comme Auchan, Hermès ou Samsung ?
 - Quels métiers sont nécessaires dans l'entreprise pour construire ce logiciel ?
-- parmis ces méiers, lequel t'attire le plus ?
-- parmis ces méiers, lequel t'attire le moins ?
+- parmis ces métiers, lequel t'attire le plus ? pourquoi ?
+- parmis ces métiers, lequel t'attire le moins ? pourquoi ?
 
 
 ## Etape 1 : Les bases de l'agloritme
