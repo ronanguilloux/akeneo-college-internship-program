@@ -5,7 +5,7 @@
 # Programme d'accueil d'un stagiaire niveau Collège, Stage d'observation
 
 Bonne nouvelle : ton stage d'observation **ne sera pas** un stage d'*observation* !
-A la fin du stage, si tu es assez malin, ton rapport de stage sera en ligne, consultable sur Internet.
+A la fin du stage, si tu es assez malin(e), ton rapport de stage sera en ligne, consultable sur Internet.
 
 ## Etape 0 : Présentation d'Akeneo
 
