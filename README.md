@@ -35,7 +35,7 @@ Répondre à un court questionnaire :
 - parmis ces métiers, lequel t'attire le moins ? pourquoi ?
 
 
-## Etape 1 : Les bases de l'agloritme
+## Etape 1 : Les bases de l'algorithme
 
 - [Code.org](http://www.code.org): le cycle "Cours débutant". Prévu pour 1 semaine quand on est en primaire,
 il ne devrait pas résister très longtemps à un collégien... ou journée ou deux, tout au plus.
