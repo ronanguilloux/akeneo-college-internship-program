@@ -17,7 +17,6 @@ Ressources à lire et à comprendre :
 (prendre un casque)
 
 - [L'histoire de Julia](https://www.youtube.com/watch?v=7lG78M8xBZ8) - Video de présentation en français (4mn)
-- [Découvrez Akeneo](https://www.youtube.com/watch?v=fRY23WWN9SY)
 - [Quelques chiffres](http://www.welcometothejungle.co/companies/akeneo) - année de création, nombre de collaborateurs, âge moyen 
 - [Présentation du logiciel Akeneo](https://www.youtube.com/watch?v=cm-b5LofkRw) - Frédéric de Gombert [RRLL2014] Akeneo, outil de gestion de catalogue (PIM)
 - [Akeneo, l'équipe](https://www.youtube.com/watch?v=JfEWZGlgjmE)
@@ -25,7 +24,7 @@ Ressources à lire et à comprendre :
 - [Découvrez Akeneo avec Maiwenn, Business Developer](https://www.youtube.com/watch?v=8KKhlDi2WvM)
 - [Découvrez Akeneo avec Arnaud, Développeur](https://www.youtube.com/watch?v=CafXl1yoLl8)
 
-Répondre à un cours questionnaire :
+Répondre à un court questionnaire :
 
 - Présenter Akeneo en 1 paragraphe : Année de création, nombre d'employée, moyenne d'age, métiers représentés
 - Qu'est-ce qu'un PIM (et que veut dire cet acronyme)
