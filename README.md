@@ -17,7 +17,7 @@ Ressources à lire et à comprendre :
 (prendre un casque)
 
 - [L'histoire de Julia](https://www.youtube.com/watch?v=7lG78M8xBZ8) - Video de présentation en français (4mn)
-- [Qu'est-ce qu'un PIM](https://www.akeneo.com/fr/qu-est-ce-qu-un-pim/)
+- [Qu'est-ce qu'un PIM](https://www.akeneo.com/fr/quest-quun-pim/)
 - [Quelques chiffres](http://www.welcometothejungle.co/companies/akeneo) - année de création, nombre de collaborateurs, âge moyen 
 - [Présentation du logiciel Akeneo](https://www.youtube.com/watch?v=cm-b5LofkRw) - Frédéric de Gombert [RRLL2014] Akeneo, outil de gestion de catalogue (PIM)
 - [Akeneo, l'équipe](https://www.youtube.com/watch?v=JfEWZGlgjmE)
