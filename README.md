@@ -37,7 +37,7 @@ Répondre à un court questionnaire :
 
 ## Etape 1 : Les bases de l'algorithme
 
-- [Code.org](http://www.code.org): le cycle "Cours débutant". Prévu pour 1 semaine quand on est en primaire,
+- [Code.org](http://www.code.org): le cycle des Cours en fonction de ton âge. Prévu pour 1 semaine quand on est en primaire,
 il ne devrait pas résister très longtemps à un collégien... ou journée ou deux, tout au plus.
 
 ## Etape 2 : Créer son rapport de stage... sur le web !
