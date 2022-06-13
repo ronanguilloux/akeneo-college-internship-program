@@ -2,7 +2,7 @@
 
 (French Version)
 
-# Programme d'accueil d'un stagiaire niveau Collège, Stage d'observation
+# Programme d'accueil d'un stagiaire niveau Collège/Lycée, Stage d'observation
 
 Bonne nouvelle : ton stage d'observation **ne sera pas** un stage d'*observation* !
 A la fin du stage, si tu es assez malin(e), ton rapport de stage sera en ligne, consultable sur Internet.
@@ -17,7 +17,7 @@ Ressources à lire et à comprendre :
 (prendre un casque)
 
 - [L'histoire de Julia](https://www.youtube.com/watch?v=7lG78M8xBZ8) - Video de présentation en français (4mn)
-- [Qu'est-ce qu'un PIM](https://www.akeneo.com/fr/quest-quun-pim/)
+- [Qu'est-ce qu'un PIM](https://www.akeneo.com/fr/what-is-a-pim/)
 - [Quelques chiffres](http://www.welcometothejungle.co/companies/akeneo) - année de création, nombre de collaborateurs, âge moyen 
 - [Présentation du logiciel Akeneo](https://www.youtube.com/watch?v=cm-b5LofkRw) - Frédéric de Gombert [RRLL2014] Akeneo, outil de gestion de catalogue (PIM)
 - [Akeneo, l'équipe](https://www.youtube.com/watch?v=JfEWZGlgjmE)
@@ -27,12 +27,15 @@ Ressources à lire et à comprendre :
 
 Répondre à un court questionnaire :
 
-- Présenter Akeneo en 1 paragraphe : Année de création, nombre d'employé(e)s, moyenne d'âge, métiers représentés
+- Présenter Akeneo en 3 paragraphes : Année de création, objectifs de l'entreprise, nombre d'employé(e)s, moyenne d'âge, métiers représentés
 - Qu'est-ce qu'un PIM (et que veut dire cet acronyme)
 - A quoi sert un PIM pour une entreprise comme Auchan, Hermès ou Samsung ?
 - Quels métiers sont nécessaires dans l'entreprise pour construire ce logiciel ?
 - parmis ces métiers, lequel t'attire le plus ? pourquoi ?
 - parmis ces métiers, lequel t'attire le moins ? pourquoi ?
+
+Objectif JOUR 1:
+- Dnas un Google Doc, présenter le résultat de ces recherches en 2-3 pages de contenus
 
 
 ## Etape 1 : Les bases de l'algorithme
