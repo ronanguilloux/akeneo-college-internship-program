@@ -38,18 +38,20 @@ Objectif JOUR 1:
 - Dnas un Google Doc, présenter le résultat de ces recherches en 2-3 pages de contenus
 
 
-## Etape 1 : Les bases de l'algorithme
+## Etape 1 (collège seulement) : Les bases de l'algorithme
 
 - [Code.org](http://www.code.org): le cycle des Cours en fonction de ton âge. Prévu pour 1 semaine quand on est en primaire,
 il ne devrait pas résister très longtemps à un collégien... ou journée ou deux, tout au plus.
 
-## Etape 2 : Créer son rapport de stage... sur le web !
+## Etape 2 (collège+lycée) : Créer son rapport de stage... sur le web !
 
 - ["Apprenez à créer votre site web avec HTML5 et CSS3" sur @OpenClassrooms"](http://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3)
 
 Ce cours devrait t'occuper 2 ou 3 jours. Le but est de rédiger ton rapport de stage et d'en faire un site web.
 
 A l'issue de ce cours, nous pourrons mettre en ligne ton site web sur un serveur privé ou sur [Github Pages](https://pages.github.com/).
+
+Pour écrire ta page web, crée un compte sur [https://codepen.io/pen](codepen.io/pen) poour sauvegarder ton travail sur les documens HTML/CSS/JS, et partager ton travail avec le maître de stage.
 
 ### Etape 3 : Le plan du rapport de stage
 
